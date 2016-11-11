@@ -6,6 +6,8 @@ using System.Threading.Tasks;
 
 namespace Entidades
 {
+
+    //Linea Agregada
     public class Usuario : Entidades
     {
         string _nombreUsuario;
